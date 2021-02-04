@@ -1,0 +1,74 @@
+body{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    background-image: url("https://img.freepik.com/free-vector/stock-market-graph-forex-trading-chart-business-financial-concepts_87788-121.jpg?size=626&ext=jpg");
+}
+h1{
+    font-size: 5rem;
+    color: royalblue;
+}
+p{
+    font-size: 2rem;
+}
+
+.changer{
+    display: none;
+}
+#slider{
+    width: 20%;
+    height: 15px;
+    border-radius: 50%;  
+} 
+
+.slide-container{
+    margin-top: 20px;
+}
+
+.btn{
+    font-weight: bold;
+    color: rgb(214, 198, 198);
+    background-color: crimson;
+}
+hr{
+    width: 90%;
+    border: 2px solid rgb(30, 129, 63);
+}
+
+.functions{
+    background-color: rgba(124, 159, 211, 0.515);
+    margin: 10px auto;
+    max-width: 230px;
+    width: auto;
+    border-radius: 10px;
+}
+
+label{
+    font-size: 2rem;
+}
+
+input{
+    font-size: 1.5rem;
+}
+
+footer{
+    font-size: 1.5rem;
+    color: brown;
+    background-color:  rgba(124, 159, 211, 0.315);
+    margin: 20px auto 0 auto;
+    padding: 50px 0 50px 0;
+}
+
+.smaller-label{
+    font-size: 1.5rem;
+}
+
+.svg-container{
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+
